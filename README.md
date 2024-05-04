@@ -1,0 +1,2 @@
+# Mapping_TIAGo_lite_Webots
+TIAGo_lite
